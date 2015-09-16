@@ -1,28 +1,23 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:50:29.329990
+#+DATE: 2015-08-30 20:50:31.394052
 #+TITLE: 阿毘曇心論
 #+PROPERTY: CBETA_ID T28n1550
 #+PROPERTY: ID KR6l0015
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 28, No. 1550
 #+PROPERTY: VOL 28
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6l0015_T_001-0809a> 
 #+PROPERTY: JUAN 1
 ¶
-No.1550[cf.Nos.1551,1552]¶
-
- 《阿毘曇心論》卷第一¶
+No. 1550 [cf. Nos. 1551, 1552]¶
+《阿毘曇心論》卷第一¶
 ¶
 尊者法勝造¶
 晉太元元年僧伽提婆¶
-共惠遠於廬山譯¶
+共惠遠於廬山惠遠於廬山譯¶
 
-1界品
-:PROPERTIES:
-:head: 界品第一
-:END:
-¶
+界品第一¶
 
 #+BEGIN_VERSE
 「　前頂禮最勝
@@ -264,11 +259,7 @@ No.1550[cf.Nos.1551,1552]¶
 性所攝。於中可見法一界一陰一入所攝。如¶
 是一切法。復次此義契經品當廣說。¶
 
-2行品
-:PROPERTIES:
-:head: 行品第二
-:END:
-¶
+行品第二¶
 
 已說諸法自相。如法生今當說。問若諸法自¶
 性所攝者。亦當以自力故生。答。¶
@@ -583,11 +574,7 @@ No.1550[cf.Nos.1551,1552]¶
 力生。但一法由多法生。多法亦由一法生。以¶
 是故謂緣行所作行如是應當知。¶
 
-3業品
-:PROPERTIES:
-:head: 業品第三
-:END:
-¶
+業品第三¶
 
 已說諸行己性及由諸因緣生。今謂此有因¶
 能嚴飾果種。生種生差別可得。今當說。¶

@@ -1,28 +1,23 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:50:29.365475
+#+DATE: 2015-08-30 20:50:31.435543
 #+TITLE: 阿毘曇心論
 #+PROPERTY: CBETA_ID T28n1550
 #+PROPERTY: ID KR6l0015
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 28, No. 1550
 #+PROPERTY: VOL 28
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6l0015_T_002-0815b> ¶¶¶¶¶¶
 #+PROPERTY: JUAN 2
 ¶
 ¶
-
- 《阿毘曇心論》卷第二¶
+《阿毘曇心論》卷第二¶
 ¶
 尊者法勝造¶
 晉太元元年僧伽提婆¶
 共惠遠於廬山譯¶
 
-4使品
-:PROPERTIES:
-:head: 使品第四
-:END:
-¶
+使品第四¶
 
 已說諸業。諸煩惱今當說。¶
 
@@ -475,11 +470,7 @@
 違常相隨不生善。不相隨則生善。因此事故¶
 是相應使。¶
 
-5賢聖品
-:PROPERTIES:
-:head: 賢聖品第五
-:END:
-¶
+賢聖品第五¶
 
 已說使品。賢聖品今當說。¶
 

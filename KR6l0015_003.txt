@@ -1,28 +1,23 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:50:29.401031
+#+DATE: 2015-08-30 20:50:31.464321
 #+TITLE: 阿毘曇心論
 #+PROPERTY: CBETA_ID T28n1550
 #+PROPERTY: ID KR6l0015
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 28, No. 1550
 #+PROPERTY: VOL 28
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6l0015_T_003-0820b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 3
 ¶
 ¶
-
- 《阿毘曇心論》卷第三¶
+《阿毘曇心論》卷第三¶
 ¶
 尊者法勝造¶
 晉太元元年僧伽提婆¶
 共惠遠於廬山譯¶
 
-6智品
-:PROPERTIES:
-:head: 智品第六
-:END:
-¶
+智品第六¶
 
 #+BEGIN_VERSE
 「　智慧性能了
@@ -361,8 +356,7 @@
 欲界思惟滅及道。離色無色界欲非苦智非¶
 習智。所以者何。不同苦習同於滅道故。問頗¶
 有未知智滅欲界不。答非欲未知智。無有未¶
-知智能滅於欲界。所以者何。無彼重見惡而¶
-悲此。問神通智性所有彼。亦應當說一一幾¶
+知智能滅於欲界。所以者何。無彼重見惡而悲此。問神通智性所有彼。亦應當說一一幾¶
 智。答。¶
 
 #+BEGIN_VERSE
@@ -443,11 +437,7 @@
 智除他心智盡智無生智。願智者利捷疾境¶
 界。於三世受一切諸法。是七智性所有(其人云一等智)。¶
 
-7定品
-:PROPERTIES:
-:head: 定品第七
-:END:
-¶
+定品第七¶
 
 問如是知諸智。此智當云何。答。¶
 
